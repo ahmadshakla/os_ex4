@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ex4_os.dir/PhysicalMemory.cpp.o CMakeFiles/ex4_os.dir/SimpleTest.cpp.o CMakeFiles/ex4_os.dir/VirtualMemory.cpp.o  -o ex4_os.exe -Wl,--out-implib,libex4_os.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
